@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Decidir com Dados: Ciência de Dados na MAE Jr.</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f7f7f7; color: #333; line-height: 1.6; padding: 2rem; max-width: 800px; margin: auto; }
+    h1, h2, h3 { color: #004a73; }
+    h1 { border-bottom: 3px solid #f0ad4e; padding-bottom: 0.3rem; }
+    .highlight { color: #f0ad4e; font-weight: bold; }
+    ul { padding-left: 1.2rem; }
+    footer { margin-top: 3rem; font-size: 0.9rem; color: #777; border-top: 1px solid #ccc; padding-top: 1rem; }
+  </style>
+</head>
+<body>
+  <h1>Decidir com Dados: Ciência de Dados na MAE Jr.</h1>
+
+  <h2>📌 Introdução</h2>
+  <p>Vivemos na era da informação, onde dados se tornaram ativos estratégicos. A Ciência de Dados surge como a habilidade essencial para transformar números em decisões seguras. É nesse contexto que a MAE Jr. se aproxima dessa ciência, buscando inovação e assertividade nas suas consultorias.</p>
+
+  <h2>🔍 O que é Ciência de Dados?</h2>
+  <p>Segundo Peter Naur (1974), trata-se da <em>“ciência de tratar com dados, coletá-los, analisá-los e interpretá-los”</em>. Ao longo das décadas, a área se consolidou como um campo independente, ganhando força com o Big Data e o avanço tecnológico.</p>
+  <p><span class="highlight">"Ciência de Dados é o campo que transforma grandes volumes de dados em informação útil."</span> — Rautenberg & Carmo (2019)</p>
+
+  <h2>⚙️ Os 5 Vs da Ciência de Dados</h2>
+  <ul>
+    <li><strong>Volume</strong> – grandes quantidades de dados</li>
+    <li><strong>Velocidade</strong> – rapidez no processamento</li>
+    <li><strong>Variedade</strong> – diferentes tipos e fontes</li>
+    <li><strong>Veracidade</strong> – qualidade e confiabilidade</li>
+    <li><strong>Valor</strong> – utilidade estratégica</li>
+  </ul>
+
+  <h2>🧠 Ferramentas e Técnicas</h2>
+  <ul>
+    <li><strong>Linguagens:</strong> Python, R</li>
+    <li><strong>Visualização:</strong> Power BI, Excel</li>
+    <li><strong>Técnicas:</strong> Análise Exploratória de Dados (EDA), Machine Learning, Visualização Interativa</li>
+  </ul>
+
+  <h2>🚀 Como a Ciência de Dados é aplicada</h2>
+  <ol>
+    <li>Coleta e organização</li>
+    <li>Limpeza e tratamento</li>
+    <li>Análise exploratória</li>
+    <li>Modelagem e avaliação</li>
+    <li>Visualização</li>
+    <li>Tomada de decisão</li>
+  </ol>
+
+  <h2>📈 Na prática da MAE Jr.</h2>
+  <ul>
+    <li>Diagnóstico de clientes baseado em dados reais</li>
+    <li>Previsão de demanda ou faturamento</li>
+    <li>Otimização de processos internos</li>
+    <li>Segmentação de público para campanhas</li>
+    <li>Previsão de cancelamento (churn)</li>
+    <li>Decisões guiadas por comportamento</li>
+  </ul>
+
+  <h2>🌱 Conclusão</h2>
+  <p>A Ciência de Dados é uma ferramenta acessível e transformadora. Na MAE Jr., ela representa um passo rumo à profissionalização, inovação e eficiência.</p>
+  <p><span class="highlight">"Decidir com dados é decidir com segurança."</span></p>
+
+  <footer>
+    <h3>📓 Fontes consultadas</h3>
+    <ul>
+      <li>RAUTENBERG, D.; CARMO, P. <em>Ciência de Dados: fundamentos e aplicações</em>. Atlas, 2019.</li>
+      <li>SPADINI, A. S. <em>O que é Data Science</em>. Alura, 2024. <a href="https://www.alura.com.br/artigos/o-que-e-data-science">Leia aqui</a>.</li>
+      <li>NETTO, T.; MACIEL, C. <em>A importância da análise de dados nas decisões estratégicas organizacionais</em>, 2021.</li>
+      <li>ACRANI RUIVO. <em>Análise Exploratória de Dados e Machine Learning aplicadas à manutenção preditiva</em>. UFU, 2023.</li>
+    </ul>
+  </footer>
+</body>
+</html>
